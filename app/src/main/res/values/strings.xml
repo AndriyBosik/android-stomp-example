@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StompExample</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="confirm">Confirm</string>
 </resources>
